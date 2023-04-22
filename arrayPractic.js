@@ -31,3 +31,12 @@ let a=arr.filter((value)=>{
   
 })
 console.log(a)
+
+//------>problem set 4: creat an array of square of given numbers.
+
+// let arr=[20,2,3,40,5]
+// let a=arr.map((value)=>{   
+//       return value*value
+// })
+// console.log(a)
+
